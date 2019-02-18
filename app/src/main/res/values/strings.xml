@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="title_song">ABBA</string>
+    <string name="title_singer">Dancing Queen</string>
 </resources>
